@@ -8,6 +8,9 @@ namespace EmpresaWZ.CadastroPedido.Models
 {
     public class Cliente
     {
+        //////
+        /// Teste
+
 
         public int ClienteId { get; set; }
         public string NomeCliente { get; set; }
